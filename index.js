@@ -3,4 +3,4 @@ import * as Diurnal from './lib/diurnal.js/diurnal.js';
 
 
 Diurnal.bind();
-new Fullscreen(document.getElementById('view'));
+new Fullscreen(document.getElementById('container'));

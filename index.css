@@ -31,7 +31,7 @@ li {
 }
 
 
-#view-pad {
+#container-pad {
   padding: 2em;
   border: solid 1px #aaa;
   margin-right: 2em;
@@ -39,15 +39,10 @@ li {
 }
 
 
-#view {
+/** These settings are necessary for the container. */
+#container {
   position: relative;
   top: 0;
-  right: 0;
+  left: 0;
   background-color: inherit;
-}
-
-
-#view div {
-  width: 100%;
-  z-index: 0;
 }
