@@ -1,0 +1,7 @@
+.fullscreen-control {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border: dashed 5px grey;
+  opacity: 0.3;
+}

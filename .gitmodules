@@ -1,0 +1,3 @@
+[submodule "lib/diurnal.js"]
+	path = lib/diurnal.js
+	url = https://github.com/pablo-mayrgundter/diurnal.js

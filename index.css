@@ -1,0 +1,53 @@
+@import './lib/diurnal.js/diurnal.css';
+@import './fullscreen.css';
+
+
+body {
+  font-family: arial;
+  margin: 0;
+  padding: 0;
+  color: #222;
+}
+
+
+body > * {
+  margin-left: 2em;
+}
+
+
+h1 {
+  padding: 1em;
+  margin: 0 0 1em 0;
+}
+
+
+ul {
+  width: 50%;
+}
+
+
+li {
+  padding: 0.5em;
+}
+
+
+#view-pad {
+  padding: 2em;
+  border: solid 1px #aaa;
+  margin-right: 2em;
+  background-color: inherit;
+}
+
+
+#view {
+  position: relative;
+  top: 0;
+  right: 0;
+  background-color: inherit;
+}
+
+
+#view div {
+  width: 100%;
+  z-index: 0;
+}
