@@ -1,6 +1,6 @@
 {
   "name": "@pablo-mayrgundter/fullscreen.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small utility to resize/toggle DOM components to full-screen.",
   "main": "fullscreen.js",
   "type": "module",
