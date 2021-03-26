@@ -1,0 +1,27 @@
+{
+  "name": "@pablo-mayrgundter/fullscreen.js",
+  "version": "1.0.0",
+  "description": "A small utility to resize/toggle DOM components to full-screen.",
+  "main": "fullscreen.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"TODO: add test\"",
+    "build": "rollup -c --environment INCLUDE_DEPS,BUILD:production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablo-mayrgundter/fullscreen.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "html",
+    "fullscreen"
+  ],
+  "author": "Pablo Mayrgundter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablo-mayrgundter/fullscreen.js/issues"
+  },
+  "homepage": "https://github.com/pablo-mayrgundter/fullscreen.js#readme"
+}
