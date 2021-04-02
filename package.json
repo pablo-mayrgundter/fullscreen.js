@@ -5,8 +5,7 @@
   "main": "fullscreen.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"TODO: add test\"",
-    "build": "rollup -c --environment INCLUDE_DEPS,BUILD:production"
+    "test": "echo \"OK: npm scripts work.\"",
   },
   "repository": {
     "type": "git",
