@@ -1,9 +1,11 @@
 {
   "name": "@pablo-mayrgundter/fullscreen.js",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A small utility to resize/toggle DOM components to full-screen.",
   "main": "fullscreen.js",
-  "files": [ "fullscreen.css" ],
+  "files": [
+    "fullscreen.css"
+  ],
   "type": "module",
   "scripts": {
     "test": "echo \"OK: npm scripts work.\""
